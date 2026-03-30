@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @mujtabams
-- 👀 I work as a Freelance Full Stack Engineer at Upwork.
+- 👀 I work as a Freelance Full Stack Engineer.
 - 🌱 I am a competitive programmer and MERN Stack with React Native.
 - 💞️ Ask me about how to get started with development.
 - 📫 How to reach me: mujtaba.sharif700@gmail.com
